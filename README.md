@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:F7C843,100:2D6CDF&text=ViNiSanPe&fontColor=FFFFFF&fontAlignY=34&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20Software%20Engineering%20%E2%80%A2%20AI&descAlignY=56"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:F7C843,100:2D6CDF&text=ViNiSanPe&fontColor=FFFFFF&fontAlignY=34&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20AI&descAlignY=56"/>
 
 # Hey, I'm Vini 🐈‍⬛👋
 
