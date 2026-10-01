@@ -63,44 +63,6 @@ const vini = {
 
 ---
 
-# 🧠 Artificial Intelligence + Software Engineering
-
-I'm currently studying **Artificial Intelligence at FIAP**, expanding my software engineering background with data-driven problem solving, intelligent automation and the integration of AI capabilities into existing systems.
-
-My goal is to combine traditional software engineering with AI to build products that are not only functional, but also **more automated, data-aware and operationally efficient**.
-
----
-
-# 🛠️ Core Stack
-
-<div align="center">
-
-| Area | Technologies |
-|---|---|
-| **Backend** | TypeScript, Node.js, NestJS |
-| **Frontend** | Next.js, Tailwind CSS |
-| **Databases** | PostgreSQL, MongoDB |
-| **Cloud** | AWS EC2, Amazon S3 |
-| **DevOps** | Docker, GitHub Actions, Docker Hub |
-| **Product & Design** | UI/UX, Figma |
-| **AI** | Artificial Intelligence studies at FIAP |
-
-</div>
-
----
-
-# 📚 Education
-
-### FIAP
-**Technology Degree in Artificial Intelligence**  
-2026 — 2028
-
-### Etec de Guarulhos
-**Systems Development**  
-2023 — 2025
-
----
-
 # 🌐 Let's Connect
 
 <div align="center">
